@@ -1,4 +1,4 @@
-<h1>Hi, I'm Micah, an <a href="www.linkedin.com/in/micah-ketring-56ab10272">IT Professional</a>☺</h1>
+<h1>Hi, I'm Micah, an <a href="https://linkedin.com/in/micah-ketring-56ab10272">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
