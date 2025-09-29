@@ -7,10 +7,10 @@
   - [osTicket: Post-Installation Configuration]()
   - [osTicket: Ticket Lifecycle Examples]()
 - <b>Microsoft Azure</b>
+ - [Creating a virtual machine inside microsoft azure.]
   - [Configuring On-premises Active Directory within Azure VMs]()
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
-
-
+ 
 
 <!--
 **Micahman-boop/Micahman-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
