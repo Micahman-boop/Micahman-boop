@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there my name is micah
+ And I can't wait to show you the work I've done!
 
 <!--
 **Micahman-boop/Micahman-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
